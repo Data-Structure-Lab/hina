@@ -1,0 +1,11 @@
+a=["apple","banana","papaya","berry"]
+b=[1,2,3,6,4,5]
+print(a[0])
+print(a[-2])
+print(a)
+print(a+b)
+print(b)
+a.append("cherry")
+print(a)
+b.pop(3)
+print(b)
